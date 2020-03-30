@@ -1,0 +1,17 @@
+<! doctype html >
+< html >
+ < 헤드 >
+  < 메타  문자셋 = " utf-8 "/>
+  < 제목 > 타이틀 표제 </ title >
+</ head >
+< 본체 >
+< p >
+ 공공 데이터 포럼 이동은
+ < HREF = " http://www.data.go.kr " > 
+   여기
+   </ a >
+   를 클릭하세요!
+   </ p >
+ </ p >
+</ 본문 >
+</ html >
